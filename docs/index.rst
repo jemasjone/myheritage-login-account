@@ -11,7 +11,7 @@ How to Login to MyHeritage Account?
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://fixmestickaccount.com
+   :target: https://myheritageaccount.net/
 ___________
 
 MyHeritage is a powerful platform that allows users to discover their family history, build a family tree, and connect with distant relatives. If you’ve already created an account, logging into your MyHeritage account is a straightforward process. However, some users may still face challenges when trying to access their account due to forgotten passwords, changed emails, or simply navigating the login page. This article will walk you through everything you need to know about how to login to your MyHeritage account smoothly.
